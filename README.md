@@ -32,6 +32,8 @@ These **only** work with [Optifine](https://optifine.net/downloads)
 -  ( ⚙ ) Cog/Settings/Gear
 -  ( 👨 ) Man/Steve/Person
 -  ( 👩 ) Woman/Alex/Person
+-  ( ⟥⯀⟤ ) Unfilled Progress/Loading Bar
+-  ( ◨◫◧ ) Filled Progress/Loading Bar
 
 ---
 
@@ -71,4 +73,5 @@ These **only** work with [Optifine](https://optifine.net/downloads)
 **Other:**
 (full credit to the textures they made, go check them out!)
 
--  Vanilla Tweaks: https://vanillatweaks.net/
+-  (Vanilla Tweaks)https://vanillatweaks.net/
+-  Paintings: Danya (https://www.planetminecraft.com/texture-pack/painting-item-variants-1-19-4-16x-optifine/)

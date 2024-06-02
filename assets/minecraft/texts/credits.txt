@@ -1,11 +1,11 @@
 
 [C]§e§l- credits -
 
-§7Pack Developers
+§7neopack Developers
 §f          neotap
 §f          MusicBug360
 
-§7Pack Honourable Mentions
+§7neopack Honourable Mentions
 §f          SimpBuilder
 §f          kikhan
 §f          LxcidNikkii
