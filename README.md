@@ -1,28 +1,27 @@
 # neopack
 
-`ver. 1.20.0 rel-neotap.net`
+`v1.20.1`
 
-Belongs to neotap CO. All terms stated in the [TOS](https://neotap.net/terms) apply.
+Checkout [neotap.net](https://neotap.net)
 
-#### Licence: MIT
+This project is discontinued and will no longer recieve updates for the time being.
 
-#### Downloads: https://neotap.net/mc
+## Quick Start
 
-#### Terms: https://neotap.net/terms
+-  Drag and drop zip file into %appdata%/.minecraft/resourcepacks/
+-  Boot up Minecraft 1.20
 
----
-
-## CUSTOM TEXTURES
+## Custom Textures
 
 These **only** work with [Optifine](https://optifine.net/downloads)
 
 -  Name any **netherite** armor piece `invis` to make it invisible
 -  Name a **netherite** helmet `headphones` for headphone texture
 -  Name a bow `sniper` for a sniper texture
--  Items done for [play.neotap.net](https://neotap.net) and [play.hypixel.net](https://hypixel.net)
+-  Items done for [play.neotap.net](https://neotap.net) (discontinued) and [play.hypixel.net](https://hypixel.net)
 -  Nametags easier to view (i.e. Dinnerbone, jeb\_, debug_stick)
 
-## CUSTOM SYMBOLS
+## Custom Symbols
 
 -  ( ↗ ) Open link in new window/externally
 -  ( 📋 ) Copy/Clipboard
@@ -35,35 +34,14 @@ These **only** work with [Optifine](https://optifine.net/downloads)
 -  ( ⟥⯀⟤ ) Unfilled Progress/Loading Bar
 -  ( ◨◫◧ ) Filled Progress/Loading Bar
 
----
+## Credits
 
-## CHANGE LOG
-
-```diff
-+ Slight rename
-+ Updated packmcmeta
-+ Small icon change
-+ Reviewed whole pack
-+ GUI improvements
-+ GUI fixed for 1.20
-+ Language file modified
-+ Added some splashes
-+ Re-did the create world menu
-+ Added symbols
-- Removed some items in langauge for accessibility
-- Removed Blue XP
-```
-
----
-
-## CREDITS
-
-**Developer(s):**
+**Developers:**
 
 -  neotap
 -  MusicBug360
 
-**Honourable mention(s):**
+**Honourable mentions:**
 
 -  SimpBuilder
 -  LxcidNikkii
@@ -73,5 +51,5 @@ These **only** work with [Optifine](https://optifine.net/downloads)
 **Other:**
 (full credit to the textures they made, go check them out!)
 
--  (Vanilla Tweaks)https://vanillatweaks.net/
--  Paintings: Danya (https://www.planetminecraft.com/texture-pack/painting-item-variants-1-19-4-16x-optifine/)
+-  [Vanilla Tweaks](https://vanillatweaks.net/)
+-  [Paintings: Danya](https://www.planetminecraft.com/texture-pack/painting-item-variants-1-19-4-16x-optifine/)
